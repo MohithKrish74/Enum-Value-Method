@@ -1,1 +1,0 @@
-# Enum-Value-Method
